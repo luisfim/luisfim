@@ -2,6 +2,11 @@
 
 Software Engineering student from Brazil.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisfim&show_icons=true&theme=github_dark)
+## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,git,github,vscode,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,github,vscode,arduino)](https://skillicons.dev)
+
+## Currently Learning
+- x86-64 Assembly
+- Linux Systems Programming
+- Embedded Development
