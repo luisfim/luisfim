@@ -8,7 +8,7 @@ Software Engineering student from Brazil.
 
 ## Connect with me:
 <div align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/luis-fim-4148a3168/)">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
 </a>
 
