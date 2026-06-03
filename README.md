@@ -8,13 +8,13 @@ Software Engineering student from Brazil.
 
 ## Connect with me:
 <div align="center">
-    <a href="https://www.linkedin.com/in/luis-fim-4148a3168/" target="_blank">
-        <img src="https://img.shields.io/badge/-Luis%20Fim-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-    </a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
+</a>
 
-   <a href="mailto:luis.fim42@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-luis.fim42@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-    </a>
+<a href="mailto:luis.fim42@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge" />
+</a>
 </div>
 
 <h2  align="center"> Check Out My Repos ⬇️ </h2>
