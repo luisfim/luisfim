@@ -2,7 +2,7 @@
 
 Software Engineering student from Brazil.
 
-## Technologies
+## Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,github,vscode,arduino)](https://skillicons.dev)
 
