@@ -10,3 +10,5 @@ Software Engineering student from Brazil.
 - x86-64 Assembly
 - Linux Systems Programming
 - Embedded Development
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=75&pause=1000&repeat=false&width=600&lines=Hello%2C+world!+My+name+is+Luis+Fim)](https://git.io/typing-svg)
