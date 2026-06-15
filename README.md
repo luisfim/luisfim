@@ -20,5 +20,5 @@ Software Engineering student from Brazil.
 </a>
 </div>
 
-<h2  align="center"> Check Out My Repos ⬇️ </h2>
+<h2  align="center"> My Repos ⬇️ </h2>
 
