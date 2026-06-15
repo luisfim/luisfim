@@ -7,7 +7,7 @@ Software Engineering student from Brazil.
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,vscode,arduino)](https://skillicons.dev)
 
 ## Connect with me:
-<div align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/luis-fim-4148a3168/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
 </a>
