@@ -4,7 +4,7 @@ Software Engineering student from Brazil.
 
 ## Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,github,vscode,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,vscode,arduino)](https://skillicons.dev)
 
 ## Connect with me:
 <div align="center">
@@ -14,6 +14,9 @@ Software Engineering student from Brazil.
 
 <a href="mailto:luis.fim42@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge" />
+</a>
+<a href="https://linktr.ee/luisfim">
+  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge" />
 </a>
 </div>
 
