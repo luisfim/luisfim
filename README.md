@@ -2,11 +2,11 @@
 
 Software Engineering student from Brazil
 
-## Technologies:
+## Stacks:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,vscode,arduino,html,js,css,aws)](https://skillicons.dev)
 
-## Connect with me:
+## Contact:
 <div align="left">
 <a href="https://www.linkedin.com/in/luis-fim-4148a3168/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
@@ -23,5 +23,5 @@ Software Engineering student from Brazil
 ## Currently Working On
 
 
-<h2  align="center"> My Repos ⬇️ </h2>
+<h2  align="center"> Repos ⬇️ </h2>
 
