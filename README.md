@@ -4,7 +4,7 @@ Software Engineering student from Brazil.
 
 ## Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,vscode,arduino,html,js,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,vscode,arduino,html,js,css,aws)](https://skillicons.dev)
 
 ## Connect with me:
 <div align="left">
