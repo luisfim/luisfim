@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5890&pause=1000&repeat=false&width=600&lines=Hello%2C+world!+My+name+is+Luis+Fim)](https://git.io/typing-svg)
 
-Software Engineering student from Brazil.
+Software Engineering student from Brazil
 
 ## Technologies:
 
