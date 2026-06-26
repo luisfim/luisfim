@@ -4,7 +4,7 @@ Software Engineering student from Brazil
 
 ## Stacks:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bash,linux,git,github,vscode,aws,bots,arduino,raspberrypi,figma,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bash,linux,git,github,vscode,aws,bots,arduino,raspberrypi)](https://skillicons.dev)
 
 ## Contact:
 <div align="left">
