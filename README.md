@@ -22,6 +22,7 @@ Software Engineering student from Brazil
 
 ## Currently Working On
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=luisfim&repo=luisfim/assembly-raycasting-engine&theme=dark)](https://github.com/luisfim/assembly-raycasting-engine)
 
 <h2  align="center"> Repos ⬇️ </h2>
 
