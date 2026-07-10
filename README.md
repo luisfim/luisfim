@@ -2,6 +2,8 @@
 
 Software Engineering student from Brazil
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=luisfim&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=luisfim&langs_count=4&theme=dark)
+
 ## Stacks:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bash,linux,git,github,vscode,aws,bots,arduino,raspberrypi)](https://skillicons.dev)
