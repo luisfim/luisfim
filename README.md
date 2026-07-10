@@ -2,8 +2,6 @@
 
 Software Engineering student from Brazil
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=luisfim)](https://github.com/stats-organization/github-stats-extended)
-
 ## Stacks:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bash,linux,git,github,vscode,aws,bots,arduino,raspberrypi)](https://skillicons.dev)
