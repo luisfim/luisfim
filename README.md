@@ -20,7 +20,7 @@
 
 ## Currently Working On
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=luisfim&repo=luisfim/assembly-raycasting-engine&theme=dark)](https://github.com/luisfim/assembly-raycasting-engine) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=luisfim&repo=luisfim/fixpoint&description_lines_count=1&theme=dark)](https://github.com/luisfim/fixpoint)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=luisfim&repo=luisfim/fixpoint&description_lines_count=1&theme=dark)](https://github.com/luisfim/fixpoint)
 
 <h2  align="center"> Repos ⬇️ </h2>
 
